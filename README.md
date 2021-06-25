@@ -1,2 +1,3 @@
 # Deep-Learning
-Notes about deep learning
+
+* 深度学习相关书籍和代码
